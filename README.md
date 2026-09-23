@@ -1,16 +1,34 @@
-## Hi there 👋
+**About Me**
+```
+alns13@github ~> fastfetch
 
-<!--
-**alns13/alns13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ .'"'.        ___,,,___        .'``.         alns13@github
+: (\  `."'"```         ```"'"-'  /) ;        ----------------
+ :  \                         `./  .'        OS:         I use Arch BTW  :)
+  `.                            :.'          Host:       IT Security Analyst @ Foxconn
+    /        _         _        \            Kernel:     Cybersecurity, Offensive Security, Network Security
+   |         0}       {0         |           Uptime:     4 years coding
+   |         /         \         |           Packages:   6 repos
+   |        /           \        |           Shell:      Fish
+   |       /             \       |           Editor:     Neovim, Cursor
+    \     |      .-.      |     /            DE:         Hyprland
+     `.   | . . /   \ . . |   .'             Theme:      Tokyo Night Racing
+       `-._\.'.(     ).'./_.-'               Terminal:   Kitty
+           `\'  `._.'  '/'                   CPU:        C, C++, ASM, Python
+             `. --'-- .'                     GPU:        Ghidra, GDB, Ropper
+               `-...-'                       Memory:     Bears
 
-Here are some ideas to get you started:
+                                             ● ● ● ● ● ● ● ●
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+
+**Upcoming**
+
+```text
+alns13@github ~> sudo pacman -Syu
+
+OSCP       ▓▓▓▓▓▓▓▓▓▓░░░░   Downloading knowledge...
+CRTO       ▓▓▓▓▓▓▓▓░░░░░░   TBD
+RHCSA      ▓▓▓▓▓░░░░░░░░░   TBD
+```
