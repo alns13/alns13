@@ -37,8 +37,8 @@ RHCSA      ▓▓▓▓▓░░░░░░░░░   TBD
 
 **DISCLAIMER**
 ```
-Thank you for visiting my GitHub page! As you explore my repositories, you may notice code structures and techniques
-that mimic malware behavior (for example: custom droppers, shellcode, backdoor mechanics, worms, etc.).
+Thank you for visiting my GitHub page! As you explore my repositories, you may notice code structures and
+techniques that mimic malware behavior (for example: droppers, shellcode, backdoors, worms, etc.).
 
 A few quick notes regarding this disclaimer:
 
