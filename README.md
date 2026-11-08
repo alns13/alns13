@@ -16,7 +16,7 @@ alns13@github ~> fastfetch
        `-._\.'.(     ).'./_.-'               Terminal:   Kitty
            `\'  `._.'  '/'                   CPU:        C, C++, ASM, Python
              `. --'-- .'                     GPU:        Ghidra, GDB, Ropper
-               `-...-'                       Memory:     Bears
+               `-...-'                       Memory:     Heavy Wizardry 101
 
                                              ● ● ● ● ● ● ● ●
 
