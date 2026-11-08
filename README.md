@@ -6,7 +6,7 @@ alns13@github ~> fastfetch
 : (\  `."'"```         ```"'"-'  /) ;        ----------------
  :  \                         `./  .'        OS:         I use Arch BTW  :)
   `.                            :.'          Host:       IT Security Analyst @ Foxconn
-    /        _         _        \            Kernel:     Cybersecurity, Offensive Security, Network Security
+    /        _         _        \            Kernel:     Cybersecurity, Offensive Security
    |         0}       {0         |           Uptime:     4 years coding
    |         /         \         |           Packages:   6 repos
    |        /           \        |           Shell:      Fish
